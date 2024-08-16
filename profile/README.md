@@ -7,4 +7,4 @@
 <a href="https://www.rqlite.io/join-slack"><strong>Slack</strong></a>
 
 ## Why run rqlite?
-rqlite is your solution for a [rock-solid](https://www.sqlite.org/testing.html), fault-tolerant, relational database with **effortless installation, deployment, and operation**. It's ideal as a lightweight, distributed relational data store for both developers and operators - think [Consul](https://www.consul.io/) or [etcd](https://etcd.io/), but with relational modeling available. Use rqlite to reliably store your most important data, ensuring it's always available to your applications.
+rqlite is your solution for a [rock-solid](https://www.sqlite.org/testing.html), fault-tolerant, relational database with **effortless installation, deployment, and operation**. It's ideal as a lightweight, distributed relational data store for both developers and operators - think [Consul](https://www.consul.io/) or [etcd](https://etcd.io/), but with relational modeling available. Use rqlite **to reliably store your most important data**, ensuring it's always available to your applications.
